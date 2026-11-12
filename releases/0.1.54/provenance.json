@@ -1,0 +1,28 @@
+{
+  "version": "0.1.54",
+  "source": {
+    "repository": "blunote-app/desktop",
+    "commit": "48f66da0c76349989306f000011448a8a40fa5e7",
+    "tag": "desktop-v0.1.54",
+    "clean": true
+  },
+  "installer": {
+    "file": "Blunote-Setup-0.1.54.exe",
+    "sha256": "e9fabf4bf7bd9f7e0aa2c7b22fa0410a8ba030383116fe9fd2fe30f45e8d11e3",
+    "size": 115807974,
+    "signed": false
+  },
+  "validation": {
+    "profileSelectionCases": 6,
+    "concurrentAuth": "passed",
+    "realDefaultProfileAndSingleton": "passed_without_user_data_dir_override",
+    "version": "0.1.54",
+    "mode": "isolated",
+    "sha256": "e9fabf4bf7bd9f7e0aa2c7b22fa0410a8ba030383116fe9fd2fe30f45e8d11e3",
+    "size": 115807974,
+    "updaterDownloadVerified": true,
+    "oldWorkspaceVerified": true,
+    "installerExecuted": false
+  },
+  "supersedesWithdrawnVersion": "0.1.53"
+}
