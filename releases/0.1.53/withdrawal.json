@@ -1,0 +1,9 @@
+{
+  "version": "0.1.53",
+  "rollout": "withdrawn",
+  "reason": "The forced userData directory differs from the real packaged v0.1.52 Electron default; isolated-profile checks did not cover this case.",
+  "replacement": "0.1.54",
+  "organizationFeedHoldCommit": "58bbb2ca6a0bde546a654097474500d85043123e",
+  "legacyFeedHoldCommit": "3099789f783cfd46864a817dc65edc16358cbaa7",
+  "publishedInstallerUnchanged": true
+}
